@@ -24,7 +24,6 @@ namespace less_than_three {
             } else {
                 Console.WriteLine("MINOR = " + c);
             }
-
         }
     }
 }
