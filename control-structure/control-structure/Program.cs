@@ -8,8 +8,7 @@ namespace control_structure {
     class Program {
         static void Main(string[] args) {
 
-            /* if-else structure
-
+            // if-else structure
             int hour;
 
             Console.Write("Enter an hour of the day: ");
@@ -20,10 +19,8 @@ namespace control_structure {
             } else {
                 Console.WriteLine("Good afternoon");
             }
-            */
 
-
-            /*
+            // Structure while
             int x, sum;
 
             sum = 0;
@@ -37,8 +34,8 @@ namespace control_structure {
             }
 
             Console.WriteLine("SUM = " + sum);
-            */
 
+            // Structure for
             int N, i, x, sum;
 
             Console.Write("How many numbers will be entered? ");
