@@ -21,6 +21,7 @@ namespace growing {
                 else {
                     Console.WriteLine("GROWING! ");
                 }
+
                 Console.WriteLine("Enter two other numbers");
                 x = int.Parse(Console.ReadLine());
                 y = int.Parse(Console.ReadLine());
